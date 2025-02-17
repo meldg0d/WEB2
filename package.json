@@ -1,0 +1,10 @@
+{
+  "name": "WEB2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01 Fundamentals/2.Looping-A-Triangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
